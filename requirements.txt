@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision
+timm
+kaggle
+opencv-python
+scikit-learn
+matplotlib
+tqdm
